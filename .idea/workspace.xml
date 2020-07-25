@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Homework OOP">
+      <change afterPath="$PROJECT_DIR$/src/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/Task10Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/annotationTask/ProducerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/details/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/enumTask/DealStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Veterinar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/matriceTask/Matrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/personTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/personTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/phoneTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/phoneTask/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/readerTask/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/readerTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/readerTask/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/professions/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/vehicles/Lorry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/vehicles/SportCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Aqua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/AmericanPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/BelarusPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task3Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/Task3Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,30 +118,56 @@
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1dm5Hdkt6zNnPq65UMXNaXdqCIy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/by/academy/classwork/HomeworkOOP/MatriceTask" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -86,7 +181,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Task11">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -105,13 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.classwork.Main" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework.stringhomework.Task1" />
       <module name="acdemy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.classwork.*" />
+          <option name="PATTERN" value="by.academy.classwork.patternClasswork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,18 +213,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Task11" />
       <module name="acdemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="by.academy.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.classwork.patternClasswork.Task3" />
+      <module name="acdemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.academy.classwork.patternClasswork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,12 +279,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.Task11" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -194,13 +303,255 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="Task1">
+      <created>1593455287838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593455287838</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task2">
+      <created>1593586670288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593586670288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task4">
+      <created>1593588107641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593588107641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task6">
+      <created>1593607360211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593607360211</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task7">
+      <created>1593625226796</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593625226798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task8">
+      <created>1593625637851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593625637852</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task9">
+      <created>1593626458417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593626458418</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task10">
+      <created>1593626937719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593626937719</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task12 Homework">
+      <created>1593766502632</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593766502632</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task13">
+      <created>1593772213055</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593772213055</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task14">
+      <created>1593792914622</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593792914623</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task15 Homework">
+      <created>1593844377913</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593844377913</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task17 Homework">
+      <created>1593853283075</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1593853283078</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task20(Variety Converter)">
+      <created>1593937457341</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593937457341</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task21 Classwork #7">
+      <created>1593939082394</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593939082394</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task22 Classwork #8">
+      <created>1593939438752</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1593939438752</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task23 Classwork #9">
+      <created>1593940021581</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593940021582</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Task24 Classwork #10">
+      <created>1593940781913</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593940781918</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Task25 Classwork #11">
+      <created>1593941087430</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1593941087431</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task26 Classwork # 12">
+      <created>1593941504852</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1593941504853</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Task27 Classwork #13">
+      <created>1593941883490</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1593941883490</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Task16 Homework">
+      <created>1594049482140</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594049482140</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Task1 Array">
+      <created>1594142784124</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1594142784124</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Task2Array">
+      <created>1594144953224</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1594144953224</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Task3Array">
+      <created>1594148416066</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1594148416066</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task4Array">
+      <created>1594203699688</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1594203699688</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task5Array">
+      <created>1594211944604</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1594211944604</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task6 Array">
+      <created>1594458195256</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1594458195256</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task8 Array">
+      <created>1594459778810</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1594459778810</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1302000" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="Task7" />
+    <MESSAGE value="Task8" />
+    <MESSAGE value="Task9" />
+    <MESSAGE value="Task10" />
+    <MESSAGE value="Task12 Homework" />
+    <MESSAGE value="Task13" />
+    <MESSAGE value="Task14" />
+    <MESSAGE value="Task15 Homework" />
+    <MESSAGE value="Task17 Homework" />
+    <MESSAGE value="Task20(Variety Converter)" />
+    <MESSAGE value="Task21 Classwork #7" />
+    <MESSAGE value="Task22 Classwork #8" />
+    <MESSAGE value="Task23 Classwork #9" />
+    <MESSAGE value="Task24 Classwork #10" />
+    <MESSAGE value="Task25 Classwork #11" />
+    <MESSAGE value="Task26 Classwork # 12" />
+    <MESSAGE value="Task27 Classwork #13" />
+    <MESSAGE value="Task16 Homework" />
+    <MESSAGE value="Task1 Array" />
+    <MESSAGE value="Task2Array" />
+    <MESSAGE value="Task3Array" />
+    <MESSAGE value="Task4Array" />
+    <MESSAGE value="Task5Array" />
+    <MESSAGE value="Task6 Array" />
+    <MESSAGE value="Task8 Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task8 Array" />
   </component>
 </project>
