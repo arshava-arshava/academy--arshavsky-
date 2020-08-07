@@ -2,15 +2,26 @@ package by.academy.homework3;
 
 import java.awt.List;
 import java.lang.reflect.Array;
+import java.time.LocalDate;
+import static java.time.temporal.ChronoUnit.DAYS;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.GregorianCalendar;
 
 public class MyCustomDate {
     private Year year;
     private Month month;
     private Day day;
+    private Integer integer;
 
+    public Integer getYear() {
+        return integer;
+    }
+
+    public void setYear(Integer integer) {
+        this.integer = integer;
+    }
 
     public MyCustomDate() {
         super();
@@ -51,6 +62,20 @@ public class MyCustomDate {
             MyCustomDate myCustomDate = new MyCustomDate(dateTemplate);
         System.out.println(myCustomDate);
         }
+    }
+
+
+    long daysBetween(LocalDate a, LocalDate b) {
+        return DAYS.between(a, b);
+    }
+
+
+    public boolean isLeapYear(int year) {
+
+        GregorianCalendar cal = (
+                GregorianCalendar) GregorianCalendar.getInstance();
+
+        return cal.isLeapYear(year);
     }
 
 
