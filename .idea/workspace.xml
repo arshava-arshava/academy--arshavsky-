@@ -2,16 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Homework OOP">
-      <change afterPath="$PROJECT_DIR$/src/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/Task10Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A_A.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/annotationTask/ProducerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/collectionTask/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/collectionTask/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/collectionTask/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/collectionTask/task5/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/collectionTask/task5/HeavyBox.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/details/Engine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/enumTask/DealStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/enumTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/enumTask/MonthOfTheYear.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/Box.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/MinMaxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/Cookable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/User1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/User3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/genericTask/classesTypes/User4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Cat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/animalTask/Dog.java" afterDir="false" />
@@ -26,15 +42,28 @@
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/readerTask/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/readerTask/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/homeworkOOP/readerTask/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lambdaTask/task1/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lambdaTask/task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lambdaTask/task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lambdaTask/task3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lambdaTask/task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lambdaTask/task5/Task5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Circle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Rectangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/lesson6Classwork/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task10Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/patternClasswork/Task4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/professions/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/reflectionTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/reflectionTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/streamsTask/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/streamsTask/FileInputOutputStreamDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task11.java" afterDir="false" />
@@ -45,31 +74,59 @@
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task6.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/stringhomework/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/threadTask/task1/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/threadTask/task2/NewRun.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/vehicles/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/vehicles/Lorry.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/academy/classwork/vehicles/SportCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Aqua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Deal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/AmericanPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/BelarusPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/academy/homework2/phoneValidator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework5/task4/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/task2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/task2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/task3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/task3/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/academy/homework6/task3/ParameterizedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task3Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/Task3Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acdemy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/acdemy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/acdemy/by/academy/classwork/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task1Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task1Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task2Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task3Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task3Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task4Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task4Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task5Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task5Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task6Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task6Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/classwork/Task8Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task8Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Bread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Bread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Deal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Deal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework2/dealTask/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/academy/homework5/task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/homework5/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/academy/classwork/loopsAndarrays/Task6.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,6 +185,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -149,6 +209,8 @@
     <option name="STATE" value="0" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -156,8 +218,15 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/by/academy/homework3" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -165,7 +234,26 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.academy.homework6.task3" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="by.academy.homework5.task1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/by/academy/homework3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.academy.classwork.lambdaTask.task1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/by/academy/homework5.task2" />
+      <recent name="$PROJECT_DIR$/src/by/academy/homework5" />
+      <recent name="$PROJECT_DIR$/src/by/academy/homework5/task1" />
       <recent name="$PROJECT_DIR$/src/by/academy/classwork/HomeworkOOP/MatriceTask" />
     </key>
   </component>
@@ -181,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task11">
+  <component name="RunManager" selected="Application.NewThread (1)">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -200,12 +288,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework.stringhomework.Task1" />
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.B" />
       <module name="acdemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.classwork.patternClasswork.*" />
+          <option name="PATTERN" value="by.academy.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,13 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.homework2.Task11" />
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.classwork.genericTask.classesTypes.Main" />
       <module name="acdemy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.homework2.*" />
+          <option name="PATTERN" value="by.academy.classwork.genericTask.classesTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,13 +315,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.academy.classwork.patternClasswork.Task3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework4.task1.Main" />
       <module name="acdemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.academy.classwork.patternClasswork.*" />
+          <option name="PATTERN" value="by.academy.homework4.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.classwork.threadTask.task2.NewThread" />
+      <module name="acdemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.academy.classwork.threadTask.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.classwork.threadTask.task1.NewThread" />
+      <module name="acdemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.academy.classwork.threadTask.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.QuizTest" />
+      <module name="acdemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.academy.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,6 +373,25 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="acdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.academy.homework6.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.academy.homework6.task3" />
+      <option name="MAIN_CLASS_NAME" value="by.academy.homework6.task3.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -279,15 +428,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task1" />
-      <item itemvalue="Application.Task3" />
-      <item itemvalue="Application.Task11" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="Application.QuizTest" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.NewThread" />
+      <item itemvalue="Application.NewThread (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task11" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.NewThread (1)" />
+        <item itemvalue="Application.NewThread" />
+        <item itemvalue="Application.QuizTest" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +660,49 @@
       <option name="project" value="LOCAL" />
       <updated>1594459778810</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Brand new shiny homework mamba number 2">
+      <created>1595660672551</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1595660672551</updated>
+    </task>
+    <task id="LOCAL-00031" summary=" Generic and Inner classes Homework">
+      <created>1596696422409</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596696422409</updated>
+    </task>
+    <task id="LOCAL-00032" summary="MyCustomDate fix">
+      <created>1596703559008</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596703559008</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Homework OOP">
+      <created>1596787576092</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1596787576092</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Homework #4">
+      <created>1597947985319</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1597947985323</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Homework 5">
+      <created>1598598230571</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1598598230576</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -526,13 +722,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <MESSAGE value="Task7" />
-    <MESSAGE value="Task8" />
-    <MESSAGE value="Task9" />
-    <MESSAGE value="Task10" />
-    <MESSAGE value="Task12 Homework" />
-    <MESSAGE value="Task13" />
     <MESSAGE value="Task14" />
     <MESSAGE value="Task15 Homework" />
     <MESSAGE value="Task17 Homework" />
@@ -552,6 +743,12 @@
     <MESSAGE value="Task5Array" />
     <MESSAGE value="Task6 Array" />
     <MESSAGE value="Task8 Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task8 Array" />
+    <MESSAGE value="Brand new shiny homework mamba number 2" />
+    <MESSAGE value=" Generic and Inner classes Homework" />
+    <MESSAGE value="MyCustomDate fix" />
+    <MESSAGE value="Homework OOP" />
+    <MESSAGE value="Homework #4" />
+    <MESSAGE value="Homework 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 5" />
   </component>
 </project>
